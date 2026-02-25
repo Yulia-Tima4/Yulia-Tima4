@@ -26,10 +26,10 @@
 <table border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107860-9a5f0892-ffda-44ee-a9fa-0f8d2f488459.png" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/soapui.svg" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=kafka&theme=dark" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/186711335-a3729609-5e78-4496-9e68-26ffdce17104.png" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/swagger.svg" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
   </tr>
