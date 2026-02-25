@@ -25,14 +25,16 @@
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/186711335-a3729609-5e78-4496-9e68-26ffdce17104.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107860-9a5f0892-ffda-44ee-a9fa-0f8d2f488459.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4335-9fb3-2b300160c99b.png" /></td>
+    <td><img width="48" src="https://www.svgrepo.com/show/354444/browserstack-icon.svg" /></td>
+    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107858-fe19b043-502e-49e9-8ac1-6d9b39c8037c.png" /></td>
+    <td><img width="48" src="https://www.svgrepo.com/show/354321/soapui.svg" /></td>
+    <td><img width="48" src="https://www.svgrepo.com/show/354400/graphql.svg" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /></td>
   </tr>
   <tr align="center">
     <td>Postman</td>
     <td>BrowserStack</td>
+    <td>Insomnia</td>
     <td>SoapUI</td>
     <td>GraphQL</td>
     <td>Docker</td>
@@ -48,8 +50,6 @@
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" /></td>
     <td><img width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/186711335-a3729609-5e78-4496-9e68-26ffdce17104.png" /></td>
     <td><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" /></td>
   </tr>
   <tr align="center">
@@ -59,8 +59,6 @@
     <td>CSS</td>
     <td>Android Studio</td>
     <td>Charles</td>
-    <td>Postman</td>
-    <td>BrowserStack</td>
     <td>Linux</td>
   </tr>
 </table>
@@ -88,10 +86,10 @@
 #### 📊 Логи и мониторинги
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/182534182-c510d344-12d5-4d42-9126-3247a774d0c7.png" /></td>
+    <td><img width="48" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6072-4b3c-87ed-6cc1897c8c1c.png" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" /></td>
+    <td><img width="48" src="https://www.vectorlogo.zone/logos/jaegertracing/jaegertracing-icon.svg" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /></td>
   </tr>
   <tr align="center">
@@ -107,9 +105,9 @@
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/184550819-05316ad8-00c5-476b-b1b5-00c12a1e2674.png" /></td>
-    <td><img width="48" src="https://github.com/user-attachments/assets/fb7316c3-1042-4e9c-bcb9-1283f667962b" /></td>
-    <td><img width="48" src="https://github.com/user-attachments/assets/589bf6a3-7ef2-4e5d-87c3-7d9e8e7b6f1a" /></td>
+    <td><img width="48" src="https://www.svgrepo.com/show/448226/confluence.svg" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/leantruong/leantruong/refs/heads/master/src/icons/testit.svg" /></td>
+    <td><img width="48" src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" /></td>
     <td><img width="48" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" /></td>
   </tr>
   <tr align="center">
@@ -123,7 +121,7 @@
 
 ---
 
-### 🌟 Мой опыт и достижения
+### 🌟 Мой опыт и достижения В РАЗРАБОТКЕ:)
 
 #### 🚀 Проект: (Учебная стажировка)
 **
@@ -133,12 +131,12 @@
     <td width="70%">
       <b>Чем занималась:</b>
       <ul>
-        <li>Провела исследовательское и функциональное тестирование мобильного приложения — искала баги там, где их никто не ждал 🔍</li>
-        <li>Разработала <b>9 чек-листов</b> в Miro для ключевых модулей приложения</li>
-        <li>Выполнила <b>170+ тестовых прогонов</b> и нашла <b>14 дефектов</b> (неплохо для старта, да?)</li>
-        <li>Оформила <b>6 подробных баг-репортов</b> в Buildin: с шагами, логами, скриншотами и видео — чтобы разработчикам было всё понятно с первого взгляда 📋</li>
-        <li>Внесла <b>10 предложений по улучшению</b> UX/UI — потому что хочется, чтобы продукты были не только рабочими, но и удобными</li>
-        <li>Участвовала в ежедневных синках с командой, ревьюила баг-репорты коллег и помогала с приоритезацией задач</li>
+        <li>Провела тестирование  — искала баги там, где их никто не ждал 🔍</li>
+        <li>Разработала <b>... чек-листов</b> в Miro</li>
+        <li>Выполнила <b>тесто...в</b> и нашла <b>...</b> (неплохо для старта, да?)</li>
+        <li>Оформила <b>... подробных баг-репортов</b> в Buildin: с шагами, логами, скриншотами и видео — чтобы разработчикам было всё понятно с первого взгляда 📋</li>
+        <li>Внесла <b>... предложений по улучшению</b> UX/UI — потому что хочется, чтобы продукты были не только рабочими, но и удобными</li>
+        <li>Участвовала в ежедневных дейликах с командой, ревьюила баг-репорты коллег и помогала ...</li>
       </ul>
       <b>Результат:</b> Все найденные баги и предложения были переданы команде разработки. Получила классный опыт работы в настоящей команде и научилась отстаивать качество продукта 💪
       <br/><br/>
