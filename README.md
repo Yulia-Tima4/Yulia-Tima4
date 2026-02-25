@@ -25,104 +25,100 @@
 #### 🔍 Тестирование API и интеграций
 <table border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107858-fe19b043-502e-49e9-8ac1-6d9b39c8037c.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107860-9a5f0892-ffda-44ee-a9fa-0f8d2f488459.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4335-9fb3-2b300160c99b.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/186711335-a3729609-5e78-4496-9e68-26ffdce17104.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=kafka&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
   </tr>
   <tr align="center">
     <td>Postman</td>
-    <td>Insomnia</td>
-    <td>SOAP</td>
     <td>GraphQL</td>
     <td>Kafka</td>
-    <td>Swagger</td>
     <td>Docker</td>
+    <td>Bash</td>
+    <td>Git</td>
   </tr>
 </table>
 
 #### 🌐 Тестирование Web и Мобильных приложений
 <table border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" /></td>
-    <td><img width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Chrome-Dark.svg" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=html&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=css&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
   </tr>
   <tr align="center">
     <td>Figma</td>
-    <td>HTTP</td>
     <td>HTML</td>
     <td>CSS</td>
     <td>Android Studio</td>
-    <td>Charles</td>
-    <td>DevTools</td>
+    <td>Postman</td>
+    <td>Linux</td>
   </tr>
 </table>
 
 #### 💾 Работа с базами данных
 <table border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" /></td>
-    <td><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/bbc88c28-28ea-490e-8683-72b5cdb5f18b" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
     <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark" /></td>
   </tr>
   <tr align="center">
     <td>PostgreSQL</td>
     <td>MongoDB</td>
     <td>MySQL</td>
-    <td>DBeaver</td>
-    <td>Metabase</td>
     <td>Redis</td>
+    <td>Metabase</td>
+    <td>SQLite</td>
   </tr>
 </table>
 
 #### 📊 Логи и мониторинги
 <table border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" /></td>
-    <td><img width="48" src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=grafana&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=prometheus&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=sentry&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
   </tr>
   <tr align="center">
-    <td>Kibana</td>
-    <td>Sentry</td>
     <td>Grafana</td>
-    <td>Jaeger</td>
-    <td>Git</td>
+    <td>Prometheus</td>
+    <td>Sentry</td>
+    <td>Elasticsearch</td>
     <td>Bash</td>
+    <td>Git</td>
   </tr>
 </table>
 
 #### 📝 Тестовая документация
 <table border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" /></td>
-    <td><img width="48" src="https://user-images.githubusercontent.com/25181517/184550819-05316ad8-00c5-476b-b1b5-00c12a1e2674.png" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" /></td>
-    <td><img width="48" src="https://docs.testit.software/images/testit_logo_icon_blue.png" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Miro-Dark.svg" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=notion&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=gitlab&theme=dark" /></td>
     <td><img width="48" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" /></td>
+    <td><img width="48" src="https://docs.testit.software/images/testit_logo_icon_blue.png" /></td>
+    <td><img width="48" src="https://skillicons.dev/icons?i=md&theme=dark" /></td>
   </tr>
   <tr align="center">
-    <td>Jira</td>
-    <td>Confluence</td>
     <td>Notion</td>
-    <td>Test IT</td>
-    <td>Miro</td>
+    <td>GitHub</td>
+    <td>GitLab</td>
     <td>Yandex Tracker</td>
+    <td>Test IT</td>
+    <td>Markdown</td>
   </tr>
 </table>
 
