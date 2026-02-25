@@ -168,10 +168,9 @@
 Учусь новому постоянно — это бесконечный процесс, и мне он в кайф.Й
 
 <table>
-  <tr align="center">
-    <td><img width="230" src="https://github.com/Yulia-Tima4/Yulia-Tima4/raw/main/сертификат%201.png" alt="Сертификат 1"/></td>
-    <td><img width="230" src="https://github.com/Yulia-Tima4/Yulia-Tima4/raw/main/сертификат%202.png" alt="Сертификат 2"/></td>
-  </tr>
+ [<img src="/Сертификат%201.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Yulia-Tima4/Yulia-Tima4/refs/heads/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%201.png)
+[<img src="/Сертификат%202.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/Yulia-Tima4/Yulia-Tima4/refs/heads/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%202.png)
+
 </table>
 ---
 
