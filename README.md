@@ -26,7 +26,7 @@
 <table border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
-    <td><img width="48" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/soapui.svg" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/raw/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_soap.png" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=graphql&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=kafka&theme=dark" /></td>
     <td><img width="48" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/swagger.svg" /></td>
@@ -53,7 +53,6 @@
     <td><img width="48" src="https://skillicons.dev/icons?i=css&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></td>
     <td><img width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" /></td>
-    <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/google-chrome-icon.svg" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
   </tr>
   <tr align="center">
@@ -63,7 +62,6 @@
     <td>CSS</td>
     <td>Android Studio</td>
     <td>Charles</td>
-    <td>DevTools</td>
     <td>Postman</td>
   </tr>
 </table>
@@ -74,7 +72,6 @@
     <td><img width="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
-    <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/dbeaver-icon.svg" /></td>
     <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
   </tr>
@@ -82,7 +79,6 @@
     <td>PostgreSQL</td>
     <td>MongoDB</td>
     <td>MySQL</td>
-    <td>DBeaver</td>
     <td>Metabase</td>
     <td>Redis</td>
   </tr>
@@ -94,7 +90,7 @@
     <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=sentry&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=grafana&theme=dark" /></td>
-    <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/jaeger-1.svg" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/raw/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
     <td><img width="48" src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
   </tr>
