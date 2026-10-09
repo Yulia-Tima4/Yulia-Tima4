@@ -8,8 +8,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/ПОЧТА-timacheva@icloud.com-2ea043?style=flat-square&logo=gmail&logoColor=white)](mailto:timacheva@icloud.com)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-@tima4__yu-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-timacheva@icloud.com-A371F7?style=flat&logo=maildotru&logoColor=white)](mailto:timacheva@icloud.com) &nbsp;·&nbsp; [![Telegram](https://img.shields.io/badge/-@tima4__yu-F778BA?style=flat&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
 
 </div>
 
