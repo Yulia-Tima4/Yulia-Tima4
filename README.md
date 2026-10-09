@@ -49,9 +49,9 @@
 | **AI-инструменты** | GPT для анализа, гипотез и рутины |
 
 ---
-## 🧰 Инструменты
+## ⚙️ Инструменты
 
-**Тестирование API и интеграций**
+**API и интеграции**
 
 <table>
   <tr>
@@ -62,6 +62,10 @@
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" /><br/>
       <sub><b>Swagger</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/soap/8B949E" width="48" height="48" /><br/>
+      <sub><b>SOAP</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/curl/073551" width="48" height="48" /><br/>
@@ -95,39 +99,31 @@
       <sub><b>Grafana</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/jaeger/66CFE3" width="48" height="48" /><br/>
-      <sub><b>Jaeger</b></sub>
+      <img src="https://cdn.simpleicons.org/charles/1B8BC2" width="48" height="48" /><br/>
+      <sub><b>Charles</b></sub>
     </td>
   </tr>
 </table>
 
-**Веб и данные**
+**Базы данных**
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/charles/1B8BC2" width="48" height="48" /><br/>
-      <sub><b>Charles</b></sub>
-    </td>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" /><br/>
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" /><br/>
-      <sub><b>Firebase</b></sub>
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/metabase/509EE3" width="48" height="48" /><br/>
+      <sub><b>Metabase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/dbeaver/382923" width="48" height="48" /><br/>
+      <sub><b>DBeaver</b></sub>
     </td>
   </tr>
 </table>
