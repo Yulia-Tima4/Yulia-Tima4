@@ -28,17 +28,6 @@
     <!-- Сетка -->
     <rect width="900" height="220" fill="url(#grid)"/>
 
-    <!-- Волна 1: пролетает слева направо -->
-    <rect x="-300" y="0" width="300" height="220" fill="url(#wave)">
-      <animate attributeName="x" values="-300;900" dur="6s" repeatCount="indefinite"/>
-    </rect>
-
-    <!-- Волна 2: с задержкой 3 секунды -->
-    <rect x="-300" y="0" width="300" height="220" fill="url(#wave)">
-      <animate attributeName="x" values="-300;900" dur="6s" begin="3s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
   <!-- Пульсирующее свечение вокруг точки -->
   <circle cx="35" cy="40" r="6" fill="url(#pulse-glow)">
     <animate attributeName="r" values="6;18;6" dur="1.8s" repeatCount="indefinite"/>
