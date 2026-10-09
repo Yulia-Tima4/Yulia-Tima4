@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://<img src="header.svg" alt="Yulia Timacheva — QA Engineer" width="900"/>.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=3FB950&background=0D1117&center=true&vCenter=true&width=700&height=180&lines=qa-terminal%3A~%24+whoami;%3E+Yulia+Timacheva;%3E+QA+Engineer;%3E+%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0+%D0%BA+%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8F%D0%BC" alt="terminal header" />
+<img src="header.svg" alt="Yulia Timacheva — QA Engineer" width="900"/>
 
 <br/>
 
