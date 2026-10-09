@@ -51,36 +51,109 @@
 ---
 ## 🧰 Инструменты
 
-**API и интеграции**
+**Тестирование API и интеграций**
 
-<img src="https://cdn.simpleicons.org/postman/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/swagger/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/curl/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/docker/8B949E" width="28" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" /><br/>
+      <sub><b>Swagger</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/curl/073551" width="48" height="48" /><br/>
+      <sub><b>cURL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48" /><br/>
+      <sub><b>Kafka</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" /><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Логи и мониторинг**
 
-<img src="https://cdn.simpleicons.org/kibana/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/sentry/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/grafana/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/jaeger/8B949E" width="28" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/kibana/005571" width="48" height="48" /><br/>
+      <sub><b>Kibana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/sentry/362D59" width="48" height="48" /><br/>
+      <sub><b>Sentry</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/grafana/F46800" width="48" height="48" /><br/>
+      <sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/jaeger/66CFE3" width="48" height="48" /><br/>
+      <sub><b>Jaeger</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Веб и данные**
 
-<img src="https://cdn.simpleicons.org/html5/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/css3/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/charles/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/firebase/8B949E" width="28" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/charles/1B8BC2" width="48" height="48" /><br/>
+      <sub><b>Charles</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" /><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Процессы и документация**
 
-<img src="https://cdn.simpleicons.org/jira/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/confluence/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/miro/8B949E" width="28" /> &nbsp;
-<img src="https://cdn.simpleicons.org/git/8B949E" width="28" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" /><br/>
+      <sub><b>Jira</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" /><br/>
+      <sub><b>Confluence</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/miro/050038" width="48" height="48" /><br/>
+      <sub><b>Miro</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
