@@ -49,6 +49,35 @@
 | **AI-инструменты** | GPT для анализа, гипотез и рутины |
 
 ---
+
+## 🎓 Обучение и подтверждения
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <a href="certificates/qa-studio-certificate.png">
+        <img src="certificates/qa-studio-certificate.png" width="200" /><br/>
+        <sub><b>🎓 QA Studio</b></sub><br/>
+        <sub>Сертификат об окончании</sub>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="certificates/hiiire-internship.png">
+        <img src="certificates/hiiire-internship.png" width="200" /><br/>
+        <sub><b>🏢 Hiiire</b></sub><br/>
+        <sub>Стажировка QA</sub>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="certificates/qa-studio-recommendation.pdf">
+        <img src="certificates/qa-studio-recommendation.png" width="200" /><br/>
+        <sub><b>📩 Рекомендация</b></sub><br/>
+        <sub>от QA Studio</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+---
 ## ⚙️ Инструменты
 
 **API и интеграции**
