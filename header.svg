@@ -1,0 +1,14 @@
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="220" rx="12" fill="#0D1117"/>
+  <rect width="900" height="220" rx="12" fill="url(#grid)"/>
+  <circle cx="35" cy="40" r="6" fill="#F778BA"/>
+  <text x="55" y="46" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#8B949E">qa-terminal:~$ whoami</text>
+  <text x="35" y="105" font-family="Inter, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#F778BA">Yulia Timacheva</text>
+  <text x="35" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="26" fill="#F778BA">QA Engineer</text>
+  <text x="35" y="190" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#8B949E">&gt; внимательна к деталям</text>
+</svg>
