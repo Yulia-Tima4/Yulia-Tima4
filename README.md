@@ -4,7 +4,7 @@
 
 <br/>
 
-**QA Studio · стажировка в Hiiire · техническое сопровождение образовательной платформы**
+**QA Studio · практика в Hiiire · техническое сопровождение образовательной платформы**
 
 <br/>
 
@@ -16,23 +16,53 @@
 
 ## 🧠 Обо мне в трёх строках
 
-🎯 Прошла путь от техподдержки образовательной платформы до QA-стажировки в HR-сервисе **Hiiire**
+🎯 Работала в QA над HR-сервисом **Hiiire** и сопровождала образовательную платформу
 
 🔍 Умею разбираться в пользовательских обращениях и описывать дефекты понятным языком
 
-📚 Систематизировала знания в **QA.Studio** и продолжаю учиться на реальных задачах
+📚 Прошла подготовку в **QA.Studio** — чек-листы, баг-репорты, API, SQL, работа с логами
 
 ---
 
-## 💼 Где я применяла навыки
+## 📚 Опыт и образование
 
-**🟣 QA-стажировка в HR-сервисе Hiiire**
+### 💼 Практика
+
+**🟣 QA в HR-сервисе Hiiire**
 
 > Ретест и регресс · подготовка тестовых данных · воспроизведение и анализ дефектов · оформление баг-репортов · проверка исправлений
 
 **🟢 Техническое сопровождение образовательной платформы**
 
 > Воспроизведение пользовательских проблем · проверка сценариев · описание дефектов · взаимодействие с IT-командой
+
+### 🎓 Обучение и подтверждения
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <a href="certificates/qa-studio-certificate.png">
+        <img src="certificates/qa-studio-certificate.png" width="200" /><br/>
+        <sub><b>🎓 QA Studio</b></sub><br/>
+        <sub>Сертификат</sub>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="certificates/hiiire-internship.png">
+        <img src="certificates/hiiire-internship.png" width="200" /><br/>
+        <sub><b>🏢 Hiiire</b></sub><br/>
+        <sub>QA-практика</sub>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="certificates/qa-studio-recommendation.pdf">
+        <img src="certificates/qa-studio-recommendation.png" width="200" /><br/>
+        <sub><b>📩 Рекомендация</b></sub><br/>
+        <sub>QA Studio</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,40 +74,9 @@
 | **Веб** | DevTools, HTTP, клиент-серверная архитектура, Charles |
 | **API** | Ручные проверки в Postman и Swagger, REST, SOAP, cURL |
 | **Данные** | SQL-запросы: SELECT, JOIN, GROUP BY |
-| **Логи и мониторинг** | Kibana, Sentry, Grafana, Jaeger |
+| **Логи и мониторинг** | Kibana, Sentry, Grafana |
 | **Процессы** | Jira, Confluence, Яндекс Вики, Miro, Git |
 | **AI-инструменты** | GPT для анализа, гипотез и рутины |
-
----
-
-## 🎓 Обучение и подтверждения
-
-<table>
-  <tr>
-    <td align="center" width="240">
-      <a href="certificates/qa-studio-certificate.png">
-        <img src="certificates/qa-studio-certificate.png" width="200" /><br/>
-        <sub><b>🎓 QA Studio</b></sub><br/>
-        <sub>Сертификат об окончании</sub>
-      </a>
-    </td>
-    <td align="center" width="240">
-      <a href="certificates/hiiire-internship.png">
-        <img src="certificates/hiiire-internship.png" width="200" /><br/>
-        <sub><b>🏢 Hiiire</b></sub><br/>
-        <sub>Стажировка QA</sub>
-      </a>
-    </td>
-    <td align="center" width="240">
-      <a href="certificates/qa-studio-recommendation.pdf">
-        <img src="certificates/qa-studio-recommendation.png" width="200" /><br/>
-        <sub><b>📩 Рекомендация</b></sub><br/>
-        <sub>от QA Studio</sub>
-      </a>
-    </td>
-  </tr>
-  
-</table>
 
 ---
 
@@ -199,6 +198,6 @@
 
 <div align="center">
 
-**Открыта к:** QA · стажировки · удалёнка/гибрид/ офис ·
+**Открыта к:** QA Engineer · удалёнка / гибрид
 
 </div>
