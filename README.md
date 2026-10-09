@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yulia-Tima4/Yulia-Tima4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=3FB950&background=0D1117&center=true&vCenter=true&width=700&height=180&lines=qa-terminal%3A~%24+whoami;%3E+Yulia+Timacheva;%3E+QA+Engineer;%3E+%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0+%D0%BA+%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8F%D0%BC" alt="terminal header" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**QA Studio · стажировка в Hiiire · техническое сопровождение образовательной платформы**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/ПОЧТА-timacheva@icloud.com-2ea043?style=flat-square&logo=gmail&logoColor=white)](mailto:timacheva@icloud.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@tima4__yu-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
+
+</div>
+
+---
+
+## 🧠 Обо мне в трёх строках
+
+- 🎯 Прошла путь от техподдержки образовательной платформы до QA-стажировки в HR-сервисе **Hiiire**
+- 🔍 Умею разбираться в пользовательских обращениях и описывать дефекты понятным языком
+- 📚 Систематизировала знания в **QA.Studio** и продолжаю учиться на реальных задачах
+
+---
+
+## 💼 Где я применяла навыки
+
+**🟣 QA-стажировка в HR-сервисе Hiiire**
+> Ретест и регресс · подготовка тестовых данных · воспроизведение и анализ дефектов · оформление баг-репортов · проверка исправлений
+
+**🟢 Техническое сопровождение образовательной платформы**
+> Воспроизведение пользовательских проблем · проверка сценариев · описание дефектов · взаимодействие с IT-командой
+
+---
+
+## 🛠 Стек
+
+| Категория | Инструменты |
+|---|---|
+| **Тестирование** | Функциональное · регрессионное · ретест |
+| **Тест-дизайн** | Анализ сценариев · подготовка тестовых данных |
+| **Документация** | Чек-листы · баг-репорты · Confluence · Яндекс Вики · Miro |
+| **API** | REST · SOAP · Postman · cURL · Swagger |
+| **SQL** | SELECT · JOIN · GROUP BY |
+| **Web** | Клиент-серверная архитектура · HTTP |
+| **Логи и мониторинг** | Kibana · Sentry · Grafana · Jaeger · Loguru |
+| **Инфраструктура** | Docker · Kafka · Firebase · Jmeter · Charles |
+| **AI-инструменты** | GPT для анализа, гипотез и рутины |
+
+---
+
+## 🎯 Чем я полезна команде
+
+|---|---|
+| «Баг-репорт без шагов — разработчик не понимает, что сломалось» | Пишу баги так, что их закрывают с первого раза |
+| «Поддержка приносит "у меня не работает", а что именно — непонятно» | Воспроизвожу проблему, локализую причину и передаю в IT с контекстом |
+| «Логи есть, но в них никто не копается» | Работаю с Kibana, Sentry, Grafana — разбираюсь в логах и мониторинге |
+
+---
+
+## 💬 Мой подход
+
+> **«Не обязательно знать всё — важно понимать, что именно нужно узнать, где найти информацию и как применить её на практике.»**
+
+Хорошему QA полезно быть **внимательным, любопытным и немного подозрительным** — особенно когда всё работает с первого раза 🙂
+
+---
+
+## 🌱 Вне работы
+
+🎱 Бильярд · 🚶 Прогулки · 🍳 Кулинарные эксперименты
+
+*Последние, как и хороший релиз, иногда требуют повторного тестирования.*
+
+---
+
+<div align="center">
+
+**Открыта к:** Junior QA · стажировки · удалёнка/гибрид
+
+</div>
