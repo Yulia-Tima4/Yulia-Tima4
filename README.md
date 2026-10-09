@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-timacheva@icloud.com-A371F7?style=flat&logo=maildotru&logoColor=white)](mailto:timacheva@icloud.com) &nbsp;·&nbsp; [![Telegram](https://img.shields.io/badge/-@tima4__yu-F778BA?style=flat&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
+[![Email](https://img.shields.io/badge/timacheva@icloud.com-A371F7?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:timacheva@icloud.com) &nbsp;&nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/@tima4__yu-F778BA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
 
 </div>
 
