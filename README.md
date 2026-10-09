@@ -11,15 +11,16 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/timacheva@icloud.com-A371F7?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:timacheva@icloud.com) &nbsp;&nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/@tima4__yu-F778BA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tima4_yu)
+
 </div>
 
 ---
 
 ## 🧠 Обо мне в трёх строках
 
-- 🎯 Прошла путь от техподдержки образовательной платформы до QA-стажировки в HR-сервисе **Hiiire**
-- 🔍 Умею разбираться в пользовательских обращениях и описывать дефекты понятным языком
-- 📚 Систематизировала знания в **QA.Studio** и продолжаю учиться на реальных задачах
+🎯 Прошла путь от техподдержки образовательной платформы до QA-стажировки в HR-сервисе **Hiiire**
+🔍 Умею разбираться в пользовательских обращениях и описывать дефекты понятным языком
+📚 Систематизировала знания в **QA.Studio** и продолжаю учиться на реальных задачах
 
 ---
 
