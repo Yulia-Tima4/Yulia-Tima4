@@ -36,28 +36,52 @@
 
 ---
 
-## 🛠 Стек
+## 👀 Что умею
 
-| Категория | Инструменты |
+| Направление | Что делаю |
 |---|---|
-| **Тестирование** | Функциональное · регрессионное · ретест |
-| **Тест-дизайн** | Анализ сценариев · подготовка тестовых данных |
-| **Документация** | Чек-листы · баг-репорты · Confluence · Яндекс Вики · Miro |
-| **API** | REST · SOAP · Postman · cURL · Swagger |
-| **SQL** | SELECT · JOIN · GROUP BY |
-| **Web** | Клиент-серверная архитектура · HTTP |
-| **Логи и мониторинг** | Kibana · Sentry · Grafana · Jaeger · Loguru |
-| **Инфраструктура** | Docker · Kafka · Firebase · Jmeter · Charles |
+| **Тест-дизайн** | Чек-листы, тест-кейсы, баг-репорты с шагами и скриншотами |
+| **Веб** | DevTools, HTTP, клиент-серверная архитектура, Charles |
+| **API** | Ручные проверки в Postman и Swagger, REST, SOAP, cURL |
+| **Данные** | SQL-запросы: SELECT, JOIN, GROUP BY |
+| **Логи и мониторинг** | Kibana, Sentry, Grafana, Jaeger |
+| **Процессы** | Jira, Confluence, Яндекс Вики, Miro, Git |
 | **AI-инструменты** | GPT для анализа, гипотез и рутины |
 
 ---
 
-## 🎯 Чем я полезна команде
-| Боль команды | Моё решение |
-|---|---|
-| «Баг-репорт без шагов — разработчик не понимает, что сломалось» | Пишу баги так, что их закрывают с первого раза |
-| «Поддержка приносит "у меня не работает", а что именно — непонятно» | Воспроизвожу проблему, локализую причину и передаю в IT с контекстом |
-| «Логи есть, но в них никто не копается» | Работаю с Kibana, Sentry, Grafana — разбираюсь в логах и мониторинге |
+## 🧰 Инструменты
+
+**Тестирование API и интеграций**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Логи и мониторинг**
+
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
+
+**Веб и данные**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Charles](https://img.shields.io/badge/Charles-1B8BC2?style=for-the-badge&logo=charles&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Процессы и документация**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -79,6 +103,6 @@
 
 <div align="center">
 
-**Открыта к:** Junior QA · стажировки · удалёнка/гибрид
+**Открыта к:** QA · стажировки · удалёнка/гибрид/ офис ·
 
 </div>
