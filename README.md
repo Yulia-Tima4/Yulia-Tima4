@@ -64,10 +64,6 @@
       <sub><b>Swagger</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/soap/8B949E" width="48" height="48" /><br/>
-      <sub><b>SOAP</b></sub>
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/curl/073551" width="48" height="48" /><br/>
       <sub><b>cURL</b></sub>
     </td>
