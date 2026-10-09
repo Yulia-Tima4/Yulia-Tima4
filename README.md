@@ -49,39 +49,38 @@
 | **AI-инструменты** | GPT для анализа, гипотез и рутины |
 
 ---
-
 ## 🧰 Инструменты
 
-**Тестирование API и интеграций**
+**API и интеграции**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://cdn.simpleicons.org/postman/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/swagger/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/curl/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/apachekafka/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/docker/8B949E" width="28" />
 
 **Логи и мониторинг**
 
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
+<img src="https://cdn.simpleicons.org/kibana/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/sentry/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/grafana/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/jaeger/8B949E" width="28" />
 
 **Веб и данные**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Charles](https://img.shields.io/badge/Charles-1B8BC2?style=for-the-badge&logo=charles&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://cdn.simpleicons.org/html5/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/css3/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/charles/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/firebase/8B949E" width="28" />
 
 **Процессы и документация**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.simpleicons.org/jira/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/confluence/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/miro/8B949E" width="28" /> &nbsp;
+<img src="https://cdn.simpleicons.org/git/8B949E" width="28" />
 
 ---
 
