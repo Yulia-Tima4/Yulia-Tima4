@@ -3,12 +3,65 @@
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
       <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#21262d" stroke-width="1"/>
     </pattern>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#F778BA"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A371F7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F778BA" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="pulse-glow">
+      <stop offset="0%" stop-color="#F778BA" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F778BA" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="rounded">
+      <rect width="900" height="220" rx="12"/>
+    </clipPath>
   </defs>
+
+  <!-- Фон -->
   <rect width="900" height="220" rx="12" fill="#0D1117"/>
-  <rect width="900" height="220" rx="12" fill="url(#grid)"/>
-  <circle cx="35" cy="40" r="6" fill="#F778BA"/>
+
+  <g clip-path="url(#rounded)">
+    <!-- Сетка -->
+    <rect width="900" height="220" fill="url(#grid)"/>
+
+    <!-- Волна 1: пролетает слева направо -->
+    <rect x="-300" y="0" width="300" height="220" fill="url(#wave)">
+      <animate attributeName="x" values="-300;900" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Волна 2: с задержкой 3 секунды -->
+    <rect x="-300" y="0" width="300" height="220" fill="url(#wave)">
+      <animate attributeName="x" values="-300;900" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Пульсирующее свечение вокруг точки -->
+  <circle cx="35" cy="40" r="6" fill="url(#pulse-glow)">
+    <animate attributeName="r" values="6;18;6" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Основная розовая точка -->
+  <circle cx="35" cy="40" r="6" fill="#F778BA">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Строка терминала -->
   <text x="55" y="46" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#8B949E">qa-terminal:~$ whoami</text>
-  <text x="35" y="105" font-family="Inter, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#F778BA">Yulia Timacheva</text>
+
+  <!-- Имя -->
+  <text x="35" y="105" font-family="Inter, -apple-system, sans-serif" font-size="48" font-weight="700" fill="url(#grad)">Yulia Timacheva</text>
+
+  <!-- Роль -->
   <text x="35" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="26" fill="#F778BA">QA Engineer</text>
+
+  <!-- Последняя строка + курсор -->
   <text x="35" y="190" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#8B949E">&gt; внимательна к деталям</text>
+  <rect x="315" y="178" width="10" height="18" fill="#F778BA">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
