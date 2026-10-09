@@ -7,26 +7,19 @@
       <stop offset="0%" stop-color="#A371F7"/>
       <stop offset="100%" stop-color="#F778BA"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A371F7" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#F778BA" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
-    </linearGradient>
     <radialGradient id="pulse-glow">
       <stop offset="0%" stop-color="#F778BA" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#F778BA" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="rounded">
-      <rect width="900" height="220" rx="12"/>
-    </clipPath>
   </defs>
 
   <!-- Фон -->
   <rect width="900" height="220" rx="12" fill="#0D1117"/>
 
-  <g clip-path="url(#rounded)">
-    <!-- Сетка -->
-    <rect width="900" height="220" fill="url(#grid)"/>
+  <!-- Мерцающая сетка -->
+  <rect width="900" height="220" rx="12" fill="url(#grid)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
 
   <!-- Пульсирующее свечение вокруг точки -->
   <circle cx="35" cy="40" r="6" fill="url(#pulse-glow)">
