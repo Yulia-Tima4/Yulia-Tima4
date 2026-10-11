@@ -15,7 +15,6 @@
 [**📂 Портфолио артефактов QA →**](https://github.com/Yulia-Tima4/qa-manual-portfolio)
 
 </div>
----
 
 ## 🧠 Обо мне в трёх строках
 
