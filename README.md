@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/timacheva@icloud.com-A371F7?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:timacheva@icloud.com) &nbsp; [![Telegram](https://img.shields.io/badge/@tima4__yu-F778BA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tima4_yu) &nbsp; [![Портфолио](https://img.shields.io/badge/Портфолио-QA-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yulia-Tima4/qa-manual-portfolio)
+[![Email](https://img.shields.io/badge/timacheva@icloud.com-A371F7?style=for-the-badge)](mailto:timacheva@icloud.com) &nbsp; [![Telegram](https://img.shields.io/badge/@tima4__yu-F778BA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tima4_yu) &nbsp; [![Портфолио](https://img.shields.io/badge/Портфолио-QA-A371F7?style=for-the-badge)](https://github.com/Yulia-Tima4/qa-manual-portfolio)
 
 </div>
 
